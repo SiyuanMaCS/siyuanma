@@ -144,6 +144,17 @@ ul.pubs em {
   font-style: italic;
 }
 
+.hl {
+  margin-top: 6px;
+  padding: 8px 12px;
+  border-left: 3px solid var(--accent);
+  background: #fafafa;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.hl strong { color: var(--accent); }
+
 footer {
   margin-top: 50px;
   padding-top: 16px;
