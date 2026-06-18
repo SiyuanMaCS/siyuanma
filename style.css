@@ -156,7 +156,7 @@ ul.pubs em {
 .hl strong { color: var(--accent); }
 
 ul.news li.pinned {
-  background: #fff8e7;
+  background: #eaf3fb;
   border-radius: 4px;
   padding-top: 8px;
   padding-bottom: 8px;
